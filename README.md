@@ -1,4 +1,6 @@
 # lodash v4.17.20
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaif-khan1211%2Flodash.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaif-khan1211%2Flodash?ref=badge_shield)
+
 
 The [Lodash](https://lodash.com/) library exported as [Node.js](https://nodejs.org/) modules.
 
@@ -37,3 +39,7 @@ Install [n_](https://www.npmjs.com/package/n_) for Lodash use in the Node.js < 6
 
 Tested in Chrome 74-75, Firefox 66-67, IE 11, Edge 18, Safari 11-12, & Node.js 8-12.<br>
 Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org/lodash/lodash/) test runs are available.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaif-khan1211%2Flodash.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaif-khan1211%2Flodash?ref=badge_large)
